@@ -128,7 +128,7 @@ const Index = () => {
       <header className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b">
         <div className="container mx-auto px-4">
           <nav className="flex items-center justify-between h-20">
-            <div className="text-2xl font-bold text-primary tracking-tight">CLEANDO</div>
+            <img src="https://cdn.poehali.dev/files/272b4eb0-ddf9-4a7c-aa2c-315c5252731a.png" alt="CLEANDO" className="h-12" />
             <div className="hidden md:flex gap-8">
               <a href="#services" className="text-sm font-medium hover:text-accent transition-colors">Услуги</a>
               <a href="#portfolio" className="text-sm font-medium hover:text-accent transition-colors">Портфолио</a>
@@ -339,7 +339,7 @@ const Index = () => {
       <footer className="py-12 px-4 border-t">
         <div className="container mx-auto max-w-6xl">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <div className="text-2xl font-bold text-primary">CLEANDO</div>
+            <img src="https://cdn.poehali.dev/files/272b4eb0-ddf9-4a7c-aa2c-315c5252731a.png" alt="CLEANDO" className="h-10" />
             <p className="text-sm text-muted-foreground">© 2024 CLEANDO. Все права защищены.</p>
             <div className="flex gap-4">
               <a href="#" className="text-muted-foreground hover:text-accent transition-colors">
