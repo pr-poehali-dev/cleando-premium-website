@@ -165,6 +165,16 @@ const Index = () => {
         </div>
       </section>
 
+      <section className="py-12 px-4">
+        <div className="container mx-auto max-w-7xl">
+          <img 
+            src="https://cdn.poehali.dev/files/b0f2e72d-ce39-4366-9fc9-e556686a7ee9.png" 
+            alt="Атмосфера чистоты" 
+            className="w-full h-auto rounded-lg animate-fade-in"
+          />
+        </div>
+      </section>
+
       <section id="services" className="py-20 px-4 bg-secondary/30">
         <div className="container mx-auto max-w-6xl">
           <h2 className="text-4xl md:text-5xl font-light text-center mb-16">Наши <span className="font-semibold">услуги</span></h2>
